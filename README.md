@@ -1,5 +1,7 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
+A portfolio website is a curated, centralized online platform that showcases a professional's best work, skills, personality, and experience to employers, clients, or collaborators. It serves as a dynamic digital resume and a narrative tool for visual storytelling, demonstrating expertise and capabilities through high-quality samples of work, clear project descriptions, an informative "About" section, and easy-to-find contact information. A user-friendly, visually appealing design is essential for an effective portfolio, as is including testimonials and social links to build credibility. 
+
 > Feel free to use but **credit appreciated** and a **⭐** to repo  
 
  ## **Portfolio Features:**
