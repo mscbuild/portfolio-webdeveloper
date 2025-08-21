@@ -1,15 +1,8 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
-
-
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
-
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
-
-## **Portfolio Features:**
+ ## **Portfolio Features:**
 
 * **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
 * **Clean Code 👍:** Well-formatted and easy to follow. 
@@ -27,11 +20,7 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 * AOS Library (for cool fade effects)
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
-
-## **Want to see it live? 👀**
-
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+ 
 
 ## **Why This Web Developer Portfolio Stands Out**
 
@@ -43,4 +32,4 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
+ 
