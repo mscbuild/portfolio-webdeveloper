@@ -37,7 +37,7 @@ Feel free to connect with me or leave feedback. I'm always learning and improvin
 
  ## Clone my repository:
  ~~~bash
-git clone https://github.com/mscbuild/Portfolio.git
+git clone https://github.com/mscbuild/portfolio-webdeveloper.git
 ~~~
 
 ## License 📄
