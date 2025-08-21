@@ -35,10 +35,5 @@ A portfolio website is a curated, centralized online platform that showcases a p
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
- ## Clone my repository:
- ~~~bash
-git clone https://github.com/mscbuild/portfolio-webdeveloper.git
-~~~
-
-## License 📄
+## **License** 📄
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
