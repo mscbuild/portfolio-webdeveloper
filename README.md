@@ -1,6 +1,6 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> Feel free to use but **credit appreciated** and a **⭐** to repo  
 
  ## **Portfolio Features:**
 
