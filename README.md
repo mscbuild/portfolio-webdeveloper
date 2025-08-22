@@ -1,5 +1,14 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
+![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/portfolio-webdeveloper) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/portfolio-webdeveloper)
+![](https://img.shields.io/badge/code%20style-python-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
 A portfolio website is a curated, centralized online platform that showcases a professional's best work, skills, personality, and experience to employers, clients, or collaborators. It serves as a dynamic digital resume and a narrative tool for visual storytelling, demonstrating expertise and capabilities through high-quality samples of work, clear project descriptions, an informative "About" section, and easy-to-find contact information. A user-friendly, visually appealing design is essential for an effective portfolio, as is including testimonials and social links to build credibility. 
 
 
