@@ -7,7 +7,15 @@
   You can adjust these to suit your needs.
 */
 
-Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';
+Content-Security-Policy:upgrade-insecure-requests:
+frame-ancestors: 'none'
+form-action: 'self'
+base-uri: 'self'
+connect-src: 'self', https:
+font-src: https:
+media-src: 'self', https:
+object-src: 'none'
+block-all-mixed-content:
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 X-Frame-Options: DENY
 X-Content-Type-Options: nosniff
