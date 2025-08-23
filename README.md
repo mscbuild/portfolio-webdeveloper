@@ -22,6 +22,7 @@ A portfolio website is a curated, centralized online platform that showcases a p
 * **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
 * **Testimonials ✅:** Genuine reviews from friends and developers.
 * **SEO Optimed** Just Replace The Content at <head>
+* **CSP Policy** 🔒 Protected with strong security headers.
 * **And More!** See the details below.
   
 ## **Technologies Used:**
