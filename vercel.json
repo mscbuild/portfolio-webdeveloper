@@ -5,7 +5,8 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; img-src 'self' https://gamesroid.com; style-src-elem 'self' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com;"
+          "value": "frame-ancestors: 'none'; form-action: 'self'; base-uri: 'self'; connect-src: 'self', https:; media-src: 'self'; https:
+object-src: 'none'; font-src 'self' https://fonts.gstatic.com;"
         },
         {
           "key": "X-Content-Type-Options",
