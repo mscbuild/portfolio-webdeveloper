@@ -1,11 +1,11 @@
 {
   "headers": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self'; style-src-elem 'self' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com;" 
+          "value": "default-src 'self'; script-src 'self'; style-src-elem 'self' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com;"
         },
         {
           "key": "X-Content-Type-Options",
@@ -22,6 +22,10 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "geolocation=(), microphone=(), camera=(), payment=()"
         }
       ]
     }
