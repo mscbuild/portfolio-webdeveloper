@@ -32,6 +32,7 @@ A portfolio website is a curated, centralized online platform that showcases a p
 * AOS Library (for cool fade effects)
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
+* Protected with strong security headers
  
 
 ## **Why This Web Developer Portfolio Stands Out**
