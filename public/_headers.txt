@@ -1,5 +1,10 @@
-/*
-  Set security-related HTTP headers to secure your site
+/* 
+  - Set Content Security Policy (CSP)
+  - Prevent clickjacking
+  - Set X-Content-Type-Options to prevent MIME sniffing
+  - Enforce HTTPS and HTTP Strict Transport Security (HSTS)
+
+  You can adjust these to suit your needs.
 */
 
 Content-Security-Policy: default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';
@@ -10,3 +15,4 @@ X-XSS-Protection: 1; mode=block
 Referrer-Policy: no-referrer-when-downgrade
 Permissions-Policy: interest-cohort=()
 Feature-Policy: vibrate 'none'; geolocation 'none';
+
