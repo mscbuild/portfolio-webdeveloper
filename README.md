@@ -1,4 +1,4 @@
-# Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
+# Design a portfolio website using Bootstrap HTML and CSS / Bootstrap Landing Page
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/portfolio-webdeveloper) 
