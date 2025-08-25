@@ -5,13 +5,7 @@ email, or any other method with the owners of this repository before making a ch
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
-## Code of Conduct
-
-This project and everyone participating in it is governed by the
-[portfolio-webdeveloper Code of Conduct](https://github.com/mscbuild/portfolio-webdeveloper/blob//CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code.
-
-## Pull Request Process
+ ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
    build.
