@@ -11,6 +11,14 @@ We prioritize the security of our users by providing regular patches and updates
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
+| Version | Supported |
+|--------|-----------|
+| main / latest | ✅ |
+| Long-Term Support (LTS) releases | ✅ |
+| End-of-life versions | ❌ |
+
+Security fixes are not provided for unsupported versions
+
 ## How to Stay Protected
 
 **1.Upgrade Promptly:** We strongly recommend running the latest version  to ensure you have the newest features and security protections.
@@ -22,6 +30,18 @@ We prioritize the security of our users by providing regular patches and updates
 If you are running a version listed as End of Life, you should upgrade immediately to avoid security risks. 
 
 *For more information on how we handle security vulnerabilities, please refer to our Security Policy.*
+
+**Vulnerabilities are assessed using **CVSS v3.x** and classified as:**
+
+- **Critical**
+- **High**
+- **Medium**
+- **Low**
+
+Severity determines remediation priority and disclosure timing.
+
+---
+
 
 ## Reporting a Vulnerability
 
@@ -42,7 +62,7 @@ Please include as much of the information listed below as you can to help us bet
 - The location of the affected source code (tag/branch/commit or direct URL)
 - Any special configuration required to reproduce the issue
 - What version(s) you've tested on and what other versions you think may be affected
-- The environment in which you tested the exploit, including but not limited to OS family/version and Python version
+- The environment in which you tested the exploit, including but not limited to OS family/version 
 - Step-by-step instructions to reproduce the issue
 - Proof-of-concept or exploit code (if possible)
 - Impact of the issue, including how an attacker might exploit the issue
