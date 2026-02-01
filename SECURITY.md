@@ -4,13 +4,6 @@
 
 We prioritize the security of our users by providing regular patches and updates. Our support policy is as follows: 
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 | Version | Supported |
 |--------|-----------|
 | main / latest | ✅ |
