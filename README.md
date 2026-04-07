@@ -1,5 +1,5 @@
 [repo]: https://github.com/mscbuild/portfolio-webdeveloper/
-[demo]: https://mscbuild.github.io/portfolio-webdeveloper/
+[demo]: https://portfolio-webdeveloper-xi.vercel.app/
 
 # Design a portfolio website using Bootstrap HTML and CSS / Bootstrap Landing Page
 
